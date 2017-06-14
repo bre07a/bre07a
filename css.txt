@@ -1,0 +1,24 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+.container {max-width:1170px;}
+
+.header-site >.container{border-bottom:#4D4F66 1px solid; padding-top:39px;}
+.header-site .nav-horizontal>ul>li>a {front-size:13px; text-transform: uppercase; opacity: 0.8;}  
+.header-site .nav-horizontal>ul>li {margin:0px 20px}
+.container .button {font-size:13px; text-transform: uppercase; font-weight:500;border-radius:2px;} 
+.button {padding:12px 45px;}
+.header-sticky.is_stuck.is_stuck_show > .container { padding: 15px 0 0; }
+
+.footer-site {text-align:center;} 
+ .menu li {display:inline-block;}
+.footer-site .menu li a {display:block;width:36px;height:36px; border:#fff 2px solid;text-align:center; line-height:32px;border-radius:1px;}
+
+.footer-site.row{padding-bottom:80px;}
+
+.footer-site.invert .section-nav-title {color:#fff; font-size:1.4rem; margin-bottom:18px;}
+.footer-site .textwidget {font-size:1.33rem;opacity:.5}
+
+
+.copyright .column {width:100%;color:#808080;font-size:1.35rem;}
+
+
+
